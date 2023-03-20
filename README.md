@@ -1,4 +1,4 @@
-Schultz Bot 
+<h1>Schultz Bot</h1> 
 
 Schultz Bot é um site que criei para aprimorar meus conhecimentos de responsividade, HTML e CSS. O objetivo é criar uma experiência de usuário agradável e responsiva em diferentes dispositivos.
 
